@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3887584-114f-4ace-b40c-314ce25341d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab00/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab00/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab00/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab00/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab00/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab00/.ipynb_checkpoints/Crtanje_grafova_Python_matplotlib-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab00/.ipynb_checkpoints/vježba 0 - uvod u Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab00/Crtanje_grafova_Python_matplotlib.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab00/grafovi/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab00/grafovi/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab00/lab00.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab00/vježba 0 - uvod u Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab00/zadaci/z1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab00/zadaci/z2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab00/zadaci/z3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab00/zadaci/z4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab00/zadaci/z5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab01/.ipynb_checkpoints/Lab_vježba1 - dodatno-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab01/.ipynb_checkpoints/Lab_vježba1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab01/Lab_vježba1 - dodatno.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab01/Lab_vježba1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab02/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab02/.ipynb_checkpoints/rekurzija-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab02/rekurzija.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab02/zadaci/maxDubina.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab02/zadaci/palindrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab02/zadaci/postoji.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab02/zadaci/preokreni.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab02/zadaci/zbroji.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab03/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab03/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab03/indeks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab03/z1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab03/zadaci/l1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab03/zadaci/l2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab03/zadaci/s1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab03/zadaci/s2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab04/.ipynb_checkpoints/Vjezba4_STOG_RED_STABLO-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab04/Vjezba4_STOG_RED_STABLO.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab04/tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab04/zad/z1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/lab04/zad/z2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labosi/trees-vjezba/binary-tree.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JupyterTrust" id="e1c17778-fbed-4644-b01e-e4ed70dc4654" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l6Rci7GkBJsNHMLx6h8mj4oueN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3887584-114f-4ace-b40c-314ce25341d1" name="Default Changelist" comment="" />
+      <created>1606915638737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606915638737</updated>
+      <workItem from="1606915640878" duration="344000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
